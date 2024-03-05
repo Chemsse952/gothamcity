@@ -13,8 +13,7 @@ html {
     font: 1.6rem "Roboto Slab",sans-serif; /*16px */
     line-height: 1.5;
     margin: 0;
-    letter-spacing: 0.1rem;
-    font-weight: 100;
+    letter-spacing: 0.1rem; 
   }
 
   /*Titre*/
